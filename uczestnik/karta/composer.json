@@ -1,0 +1,22 @@
+{
+  "name": "istom1n/fpdi-tfpdf",
+  "version": "1.0.4",
+  "description": "PHP package of TFPDF with FPDI. PSR-4 compliant.",
+  "type": "library",
+  "keywords": ["pdf", "fpdi", "fpdf", "tfpdf"],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Ivan Istomin",
+      "email": "ivan@istomin.im"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "fpdi\\": "src/"
+    }
+  },
+  "require": {
+    "istom1n/fpdi-tfpdf": "^1.0"
+  }
+}

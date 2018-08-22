@@ -1,0 +1,6 @@
+﻿English: Hello World
+Greek: Γειά σου κόσμος
+Polish: NAKŁO NAD NOTECIĄ
+Portuguese: Olá mundo
+Russian: Здравствулте мир
+Vietnamese: Xin chào thế giới
